@@ -1,4 +1,4 @@
-Applied  various EDA techniques to visualize, pre-process, and clean the data. Study the correlations amongst attributes, perform feature transformations etc. 
+Applied  various EDA techniques to visualize, pre-process, and clean the data , studied the correlations amongst attributes, perform feature transformations etc. 
 and prepared the dataset for modeling (machine learning).
 
 Applied the method  Normal Equations and Pseudo-inverse to compute the optimal parameters. 
